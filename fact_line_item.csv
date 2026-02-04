@@ -1,0 +1,16 @@
+﻿order_id,item_id,product_id,catalog_id,product_type,item_type_id,session_id
+ord101,sku101_1,prod101,cat101,Device,Watch,ses_101
+ord101,sku101_2,prod101,cat101,Device,Watch,ses_101
+ord101,sku101_3,prod103,cat101,Accessory,Headphone,ses_101
+ord102,sku101_3,prod103,cat101,Accessory,Headphone,ses_102
+ord102,sku101_4,prod101,cat101,Device,Phone,ses_102
+ord102,sku101_3,prod101,cat101,Device,Phone,ses_102
+ord103,sku102_1,prod102,cat101,Device,Watch,ses_103
+ord103,sku102_2,prod102,cat101,Device,Watch,ses_103
+ord103,sku102_3,prod103,cat101,Accessory,Headphone,ses_103
+ord103,sku102_2,prod102,cat101,Device,Phone,ses_103
+ord104,sku102_3,prod103,cat101,Accessory,Headphone,ses_104
+ord104,sku102_4,prod102,cat101,Device,Phone,ses_104
+ord104,sku102_5,prod101,cat101,Device,Watch,ses_104
+ord101,sku102_2,prod102,cat101,Device,Phone,ses_101
+ord101,sku102_3,prod103,cat101,Accessory,Headphone,ses_101
