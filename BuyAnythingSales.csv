@@ -1,7 +1,6 @@
 OrderID,OrderDate,CustomerID,CustomerName,Country,ProductID,ProductCategory,ProductName,Quantity,UnitPrice,TotalPrice,SalesRegion
 1.0,2025-05-04,9233.0,Justin Burgess,Israel,836.0,electronics,Headphones,7.0,307.44,2152.08,South
 2.0,2024-09-28,9816.0,Joe Williams,Angola,760.0,Sports,Football,10.0,833.84,8338.4,West
-,,,,,,,,,,,
 3.0,2025-01-08,1008.0,Nicholas Barnes,United Arab Emirates,677.0,sports,treadmill,9.0,105.01,945.09,North
 4.0,2024-10-08,9227.0,Troy Wagner,palau,921.0,Clothing,Jeans,10.0,253.59,2535.9,South
 4.0,2024-10-08,9227.0,Troy Wagner,palau,921.0,Clothing,Jeans,10.0,253.59,2535.9,South
@@ -9,7 +8,6 @@ OrderID,OrderDate,CustomerID,CustomerName,Country,ProductID,ProductCategory,Prod
 5.0,2023-08-14,1440.0,Miguel Johnson,Estonia,956.0,Electronics,Laptop,2.0,693.5,1387.0,north
 6.0,2023-06-23,5333.0,Deborah Brooks,Hong Kong,546.0,Electronics,Smartphone,8.0,994.65,7957.2,North
 7.0,2024-01-07,6466.0,Jerry Schneider,United Arab Emirates,812.0,Clothing,Jacket,5.0,335.78,1678.9,East
-,,,,,,,,,,,
 8.0,2023-09-12,5357.0,Christopher Hill,Japan,802.0,Clothing,T-Shirt,4.0,477.07,1908.28,South
 9.0,2023-12-26,1158.0,Jessica Morrison,Guernsey,603.0,Sports,Tennis Racket,5.0,21.71,108.55,West
 10.0,2023-11-02,2326.0,Robert Carroll,Portugal,841.0,Beauty,Nail Polish,3.0,803.36,2410.08,South
@@ -23,7 +21,6 @@ OrderID,OrderDate,CustomerID,CustomerName,Country,ProductID,ProductCategory,Prod
 17.0,2023-11-14,1792.0,Patrick Brown,French Southern Territories,823.0,Furniture,Bed,10.0,799.32,7993.2,North
 18.0,2024-10-28,9035.0,Nathaniel Long,Macedonia,621.0,Clothing,T-Shirt,7.0,866.25,6063.75,East
 19.0,2024-06-21,9035.0,Nathaniel Long,Macedonia,626.0,Clothing,Shoes,10.0,133.98,1339.8,South
-,,,,,,,,,,,
 20.0,2023-08-11,1497.0,Sarah Nielsen,Kiribati,526.0,Clothing,Jacket,4.0,903.25,3613.0,East
 21.0,2024-03-22,2610.0,Krista Sampson,Jamaica,892.0,Furniture,Couch,3.0,648.57,1945.71,West
 22.0,2024-12-12,4809.0,Justin Montgomery,Djibouti,939.0,Electronics,Headphones,10.0,542.34,5423.4,West
